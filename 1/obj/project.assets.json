@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\SeminarC#\\Chernovik_NePoluchilos\\Chernovik_NePoluchilos.csproj",
-      "projectName": "Chernovik_NePoluchilos",
-      "projectPath": "C:\\Users\\User\\Desktop\\SeminarC#\\Chernovik_NePoluchilos\\Chernovik_NePoluchilos.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\SeminarC#\\1\\1.csproj",
+      "projectName": "1",
+      "projectPath": "C:\\Users\\User\\Desktop\\SeminarC#\\1\\1.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\SeminarC#\\Chernovik_NePoluchilos\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\SeminarC#\\1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
