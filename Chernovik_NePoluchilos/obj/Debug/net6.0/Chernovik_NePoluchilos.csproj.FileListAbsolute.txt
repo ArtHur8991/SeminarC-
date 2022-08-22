@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\SeminarC#\Chernovik_NePoluchilos\bin\Debug\net6.0\Chernovik_NePoluchilos.exe
+C:\Users\User\Desktop\SeminarC#\Chernovik_NePoluchilos\bin\Debug\net6.0\Chernovik_NePoluchilos.deps.json
+C:\Users\User\Desktop\SeminarC#\Chernovik_NePoluchilos\bin\Debug\net6.0\Chernovik_NePoluchilos.runtimeconfig.json
+C:\Users\User\Desktop\SeminarC#\Chernovik_NePoluchilos\bin\Debug\net6.0\Chernovik_NePoluchilos.dll
+C:\Users\User\Desktop\SeminarC#\Chernovik_NePoluchilos\bin\Debug\net6.0\Chernovik_NePoluchilos.pdb
+C:\Users\User\Desktop\SeminarC#\Chernovik_NePoluchilos\obj\Debug\net6.0\Chernovik_NePoluchilos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SeminarC#\Chernovik_NePoluchilos\obj\Debug\net6.0\Chernovik_NePoluchilos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SeminarC#\Chernovik_NePoluchilos\obj\Debug\net6.0\Chernovik_NePoluchilos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SeminarC#\Chernovik_NePoluchilos\obj\Debug\net6.0\Chernovik_NePoluchilos.AssemblyInfo.cs
+C:\Users\User\Desktop\SeminarC#\Chernovik_NePoluchilos\obj\Debug\net6.0\Chernovik_NePoluchilos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SeminarC#\Chernovik_NePoluchilos\obj\Debug\net6.0\Chernovik_NePoluchilos.dll
+C:\Users\User\Desktop\SeminarC#\Chernovik_NePoluchilos\obj\Debug\net6.0\refint\Chernovik_NePoluchilos.dll
+C:\Users\User\Desktop\SeminarC#\Chernovik_NePoluchilos\obj\Debug\net6.0\Chernovik_NePoluchilos.pdb
+C:\Users\User\Desktop\SeminarC#\Chernovik_NePoluchilos\obj\Debug\net6.0\Chernovik_NePoluchilos.genruntimeconfig.cache
+C:\Users\User\Desktop\SeminarC#\Chernovik_NePoluchilos\obj\Debug\net6.0\ref\Chernovik_NePoluchilos.dll

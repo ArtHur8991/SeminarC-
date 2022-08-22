@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\SeminarC#\Zadacha002_DrugoiVariant\bin\Debug\net6.0\Zadacha002_DrugoiVariant.exe
+C:\Users\User\Desktop\SeminarC#\Zadacha002_DrugoiVariant\bin\Debug\net6.0\Zadacha002_DrugoiVariant.deps.json
+C:\Users\User\Desktop\SeminarC#\Zadacha002_DrugoiVariant\bin\Debug\net6.0\Zadacha002_DrugoiVariant.runtimeconfig.json
+C:\Users\User\Desktop\SeminarC#\Zadacha002_DrugoiVariant\bin\Debug\net6.0\Zadacha002_DrugoiVariant.dll
+C:\Users\User\Desktop\SeminarC#\Zadacha002_DrugoiVariant\bin\Debug\net6.0\Zadacha002_DrugoiVariant.pdb
+C:\Users\User\Desktop\SeminarC#\Zadacha002_DrugoiVariant\obj\Debug\net6.0\Zadacha002_DrugoiVariant.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SeminarC#\Zadacha002_DrugoiVariant\obj\Debug\net6.0\Zadacha002_DrugoiVariant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SeminarC#\Zadacha002_DrugoiVariant\obj\Debug\net6.0\Zadacha002_DrugoiVariant.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SeminarC#\Zadacha002_DrugoiVariant\obj\Debug\net6.0\Zadacha002_DrugoiVariant.AssemblyInfo.cs
+C:\Users\User\Desktop\SeminarC#\Zadacha002_DrugoiVariant\obj\Debug\net6.0\Zadacha002_DrugoiVariant.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SeminarC#\Zadacha002_DrugoiVariant\obj\Debug\net6.0\Zadacha002_DrugoiVariant.dll
+C:\Users\User\Desktop\SeminarC#\Zadacha002_DrugoiVariant\obj\Debug\net6.0\refint\Zadacha002_DrugoiVariant.dll
+C:\Users\User\Desktop\SeminarC#\Zadacha002_DrugoiVariant\obj\Debug\net6.0\Zadacha002_DrugoiVariant.pdb
+C:\Users\User\Desktop\SeminarC#\Zadacha002_DrugoiVariant\obj\Debug\net6.0\Zadacha002_DrugoiVariant.genruntimeconfig.cache
+C:\Users\User\Desktop\SeminarC#\Zadacha002_DrugoiVariant\obj\Debug\net6.0\ref\Zadacha002_DrugoiVariant.dll
